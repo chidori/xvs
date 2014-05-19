@@ -6,7 +6,7 @@ P.S. With dummy client side :#
 ## Usage
 
 Application using [xml schema definition language (XSD) v1.1](http://www.w3.org/TR/xmlschema11-1/) to validate XML
-and [Apache Xerces2 Java Parser](http://xerces.apache.org/xerces2-j/).
+via [Apache Xerces2 Java library](http://xerces.apache.org/xerces2-j/).
 
 Only beta version of xerces2-j library can validate XSD v1.1 so it can`t be found in maven repository.
 
